@@ -1,0 +1,11 @@
+{
+  "name": "udemyscraper",
+  "version": "1.0.0",
+  "description": "Udemy web scraper to alert when price of course is below a certain price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Payne",
+  "license": "ISC"
+}
